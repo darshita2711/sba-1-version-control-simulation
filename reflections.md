@@ -13,5 +13,4 @@ Git Branching, Merge Conflict, and Pull Request Reflection
 
 3. How did the pull request process help with code quality and collaboration?
    The pull request allowed my work to be reviewed before merging.
-   Feedback helped identify mistakes and improve the code.
    It made collaboration more organized and helped keep main stable.
